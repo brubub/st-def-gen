@@ -11,3 +11,6 @@ The acronym stands for Semantic Turkey DEFinition GENerator and it is sometimes 
 * Supports [Semantic Turkey](http://semanticturkey.uniroma2.it/)
 * Supports [Swagger Specification 2.0](https://github.com/swagger-api/swagger-spec/blob/master/versions/2.0.md)
 * Supports Windows & Linux
+
+# Versions
+- 0.0.1 released in Github repo
