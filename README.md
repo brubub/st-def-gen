@@ -14,3 +14,21 @@ The acronym stands for Semantic Turkey DEFinition GENerator and it is sometimes 
 
 # Versions
 - 0.0.1 released in Github repo
+
+# FAQ
+
+## 1. Building from source
+
+To build from source and get the executable jar, you should:
+```
+mvn package
+```
+This will result in a archive "sdg.jar". 
+
+## 2. Run the executable archive
+
+Simply:
+```
+java -jar sdg.jar 
+```
+You can specify the attributes in the same instruction or at run-time
